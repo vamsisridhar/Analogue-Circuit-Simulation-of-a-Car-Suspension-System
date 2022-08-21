@@ -1,0 +1,137 @@
+Circuit: * C:\Users\vamsi\_IMPERIAL_\Year 1\Advanced Electronics\Project\Analogue_Computer_4.asc
+
+Unknown node in .ic card: "dy_dt" -- ignoring
+V4: Missing value, assumed 0V @ DC
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03922
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.02313
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01616
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+Gmin = 1.01205
+vernier = 0.00115741
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.0104
+vernier = 0.00102881
+Gmin = 1.00812
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.00704
+vernier = 0.000514403
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 1.00622
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 69.7058%
+Source Step = 69.7354%
+Source Step = 69.765%
+Source Step = 69.7946%
+Source Step = 69.8242%
+Source Step = 69.8538%
+vernier = 0.00146484
+Source Step = 69.8967%
+Source Step = 69.9411%
+Source Step = 69.9855%
+Source Step = 70.0299%
+Source Step = 70.0743%
+vernier = 0.00219727
+Source Step = 70.1364%
+Source Step = 70.203%
+Source Step = 70.2696%
+Source Step = 70.3362%
+Source Step = 70.4028%
+vernier = 0.0032959
+Source Step = 70.4926%
+Source Step = 70.5925%
+Source Step = 70.6924%
+Source Step = 70.7923%
+Source Step = 70.8921%
+vernier = 0.00494385
+Source Step = 71.022%
+Source Step = 71.1718%
+Source Step = 71.3216%
+Source Step = 71.4714%
+Source Step = 71.6212%
+vernier = 0.00741577
+Source Step = 71.8085%
+Source Step = 72.0332%
+Source Step = 72.2579%
+Source Step = 72.4827%
+Source Step = 72.7074%
+vernier = 0.0111237
+Source Step = 72.9771%
+Source Step = 73.3141%
+Source Step = 73.6512%
+Source Step = 73.9883%
+Source Step = 74.3254%
+vernier = 0.0166855
+Source Step = 74.713%
+Source Step = 75.2186%
+Source Step = 75.7243%
+Source Step = 76.2299%
+Source Step = 76.7355%
+vernier = 0.0250282
+Source Step = 77.2917%
+Source Step = 78.0501%
+Source Step = 78.8085%
+Source Step = 79.567%
+Source Step = 80.3254%
+vernier = 0.0375423
+Source Step = 81.1218%
+Source Step = 82.2594%
+Source Step = 83.3971%
+Source Step = 84.5347%
+Source Step = 85.6723%
+Source Step = 86.81%
+vernier = 0.0563135
+Source Step = 88.5165%
+Source Step = 90.2229%
+Source Step = 91.9294%
+Source Step = 93.6359%
+Source Step = 95.3423%
+vernier = 0.0844703
+Source Step = 97.8167%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Fri Jun 04 10:30:27 2021
+Total elapsed time: 1.193 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 21468
+traniter = 11808
+tranpoints = 5318
+accept = 4314
+rejected = 1004
+matrix size = 36
+fillins = 158
+solver = Normal
+Thread vector: 40.1/20.1[4] 4.4/3.1[4] 8.7/3.0[4] 0.5/3.2[1]  2592/500
+Matrix Compiler1: 15.41 KB object code size  2.6/2.1/[0.8]
+Matrix Compiler2: 6.99 KB object code size  2.7/1.9/[0.8]
+

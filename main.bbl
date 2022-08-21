@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{manual}
+C.~M. Carr.
+\newblock Project d - analogue computer, Imperial College London, 2021.
+
+\bibitem{digitalvanalogue}
+Technopedia.
+\newblock Analogue computer.
+
+\bibitem{mechanic}
+Your Mechanic.
+\newblock How car suspension systems work.
+
+\bibitem{suspensionmodel}
+E.~Chávez-Conde, Francisco Beltran-Carbajal, Antonio Valderrabano-Gonzalez,
+  and Ramon Chavez.
+\newblock {\em Robust Control of Active Vehicle Suspension Systems Using
+  Sliding Modes and Differential Flatness with MATLAB}.
+\newblock 10 2011.
+
+\bibitem{dampedfreq}
+LibreTexts.
+\newblock Damped oscillations.
+
+\bibitem{op-amp}
+Talking Electronics.
+\newblock The op-amp.
+
+\bibitem{analoguecompanalysis}
+Robert Paz.
+\newblock Analog computing technique.
+
+\end{thebibliography}

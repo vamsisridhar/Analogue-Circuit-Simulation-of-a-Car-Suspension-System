@@ -1,0 +1,77 @@
+Circuit: * C:\Users\vamsi\_IMPERIAL_\Year 1\Advanced Electronics\Project\Analogue_Computer_3.asc
+
+Unknown node in .ic card: "dy_dt" -- ignoring
+V4: Missing value, assumed 0V @ DC
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03922
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.02313
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01616
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+Gmin = 1.01205
+vernier = 0.00115741
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.0104
+vernier = 0.00102881
+Gmin = 1.00812
+vernier = 0.000514403
+vernier = 0.00068587
+Gmin = 1.00704
+vernier = 0.000514403
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 1.00622
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 12.1212%
+Source Step = 19.697%
+Source Step = 27.2727%
+Source Step = 34.8485%
+Source Step = 42.4242%
+vernier = 0.375
+Source Step = 52.6515%
+Source Step = 64.0152%
+Source Step = 75.3788%
+Source Step = 86.7424%
+Source Step = 98.1061%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Mon Jun 07 09:29:54 2021
+Total elapsed time: 0.924 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16084
+traniter = 8965
+tranpoints = 4323
+accept = 3763
+rejected = 560
+matrix size = 38
+fillins = 104
+solver = Normal
+Thread vector: 21.7/8.6[5] 4.8/2.4[5] 6.8/5.3[5] 0.2/1.0[1]  2592/500
+Matrix Compiler1:     495 opcodes  1.5/[0.7]/1.0
+Matrix Compiler2: 6.33 KB object code size  0.5/0.7/[0.4]
+
