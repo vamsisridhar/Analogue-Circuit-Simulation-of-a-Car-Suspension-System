@@ -4,3 +4,5 @@ A car’s suspension system was modelled by building an analogue computer. It wa
 
 The circuit was simulated using LTSpice and the then tested on a breadboard.
 Python was used for dtaa analysis, error calculation and comparision testing the physical circuit with the simulation.
+
+The report on the analogue computer can be found here: https://github.com/vamsisridhar/Analogue-Circuit-Simulation-of-a-Car-Suspension-System/blob/main/main.pdf
